@@ -1,0 +1,10 @@
+Contraints : (limitations)
+table level contraints
+column level contraints
+
+Primary Key : Only one field in one table
+Unique Key : multiple field in one table
+Foreign Key :
+Not null
+Deafult : is value to set automatically if not given input
+Check : conditions
