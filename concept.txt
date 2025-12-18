@@ -8,3 +8,10 @@ Foreign Key :
 Not null
 Deafult : is value to set automatically if not given input
 Check : conditions
+
+........... Git Bash Notes...............
+To add Existing file
+- git add filename.ext
+- git add . (to add all files)
+- git commit -m 'Updated code in existing file' (updated file adding in git repo)
+- git push origin main (to push the gir repo)
