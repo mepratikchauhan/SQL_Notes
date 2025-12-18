@@ -8,3 +8,4 @@ Foreign Key :
 Not null
 Deafult : is value to set automatically if not given input
 Check : conditions
+Others
